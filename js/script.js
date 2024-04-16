@@ -64,8 +64,8 @@ var name = 'Ivan';
 
 
 // // массив данных без ключа с заданным порядком
-// let arr = ['plum.png', 'orange.jpg', 6, 'apple.bpm', {}, []];
-// console.log(arr[1]);
+let arr = ['plum.png', 'orange.jpg', 6, 'apple.bpm', {}, []];
+console.log(arr[1]);
 
 
 const category = 'toys';

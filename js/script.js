@@ -73,4 +73,4 @@ const category = 'toys';
 //если к строке прибавить число будет строка (конкатинация) 
 console.log(`https://someurl.com/${category}/5`);
 
-
+ 

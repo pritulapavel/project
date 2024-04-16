@@ -12,7 +12,7 @@ const a = prompt('Один из просмотренных фильмов?', '')
       c = prompt('Один из просмотренных фильмов?', ''),
       d = +prompt('На сколько оцените его?', '');
 
-personalMovieDb.movies[a] = b;
-personalMovieDb.movies[c] = d;
+personalMovieDb.movies[a] = b; // добавление в обьект
+personalMovieDb.movies[c] = d; // добавление в обьект
 
 console.log(personalMovieDb);

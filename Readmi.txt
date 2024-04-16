@@ -18,3 +18,15 @@
 -Ошибки
 
 --Обычные обьекты
+
+
+
+git init
+git status
+git add -a (добавить все)
+git commit -a -m "сообщение комита"
+git push (выгрузить в гит)
+
+git pull (обновить локальный реп)
+ctrl + c ctrl + c ":wq! - выход из терм
+git merge 
